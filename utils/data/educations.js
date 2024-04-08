@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Bachelor of Science in Computer Science, Concentration Game Design & Simulation",
+    duration: "Aug 2017 - Aug 2022",
+    institution: "Florida Polytechnic University Lakeland, FL",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "AA Degree",
+    duration: "Aug 2015 - May 2017",
+    institution: "College Academy at Broward College North",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "------- Certificate",
+    duration: "--------",
+    institution: "--------------------",
   }
 ]
