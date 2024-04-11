@@ -10,7 +10,7 @@ const nextConfig = {
     domains: ['res.cloudinary.com', 'media.dev.to']
   },
 
-  //basePath: "/developer-portfolio",  // <= name of project
+  basePath: "/developer-portfolio",  // <= name of project
   output: "export",  // <= enables static exports
   reactStrictMode: true,
 
