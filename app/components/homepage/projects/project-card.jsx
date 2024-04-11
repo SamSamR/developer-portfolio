@@ -1,6 +1,8 @@
 // @flow strict
 
 import * as React from 'react';
+import Link from 'next/link';
+import { FaCode, FaPlay } from 'react-icons/fa';
 
 function ProjectCard({ project }) {
 
@@ -62,6 +64,7 @@ function ProjectCard({ project }) {
             <span className="text-gray-400">,</span>
           </div>
           <div><span className="text-gray-400">{`};`}</span></div>
+
 
           <div className="flex items-center justify-between w-full">
           <Link
