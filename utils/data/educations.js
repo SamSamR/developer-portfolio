@@ -1,9 +1,9 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor of Science in Computer Science, Concentration Game Design & Simulation",
+    title: "Bachelor of Science in Computer Science",
     duration: "Aug 2017 - Aug 2022",
-    institution: "Florida Polytechnic University Lakeland, FL",
+    institution: "Concentration Game Design & Simulation \nFlorida Polytechnic University Lakeland, FL",
   },
   {
     id: 2,

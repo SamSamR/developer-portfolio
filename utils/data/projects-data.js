@@ -43,9 +43,19 @@ export const projectsData = [
         demo: '',
         image: ayla,
         role: 'MY ROLE', /*Why out of order?*/
-    }
+    },
 
     //Add more here?
+    {
+        id: 5,
+        name: 'Project Title 5',
+        description: "Project Description.",
+        tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
+        code: '',
+        demo: 'https://samsamr.github.io/developer-portfolio/',
+        image: ayla,
+        role: 'MY ROLE', /*Why out of order?*/
+    }
 ];
 
 

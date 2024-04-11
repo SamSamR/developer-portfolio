@@ -9,7 +9,7 @@ export const experiences = [
     id: 2,
     title: "Statistics Tutor",
     company: "Self Employed",
-    duration: "(April 2024 - Present)"
+    duration: "(Feb 2024 - Present)"
   },
   {
     id: 3,
