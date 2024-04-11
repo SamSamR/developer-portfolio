@@ -73,8 +73,8 @@ export const projectsData = [
         code: '',
         demo: '',
         image: crefin,
-    }//,
-    /*{
+    },
+    {
         id: 8,
         name: 'Project Title 8',
         description: "Project Description.",
@@ -104,7 +104,7 @@ export const projectsData = [
         demo: '',
         image: crefin,
     }
-    */
+
 ];
 
 
