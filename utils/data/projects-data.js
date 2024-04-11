@@ -50,7 +50,7 @@ export const projectsData = [
         description: "Project Description.",
         tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
         code: '',
-        demo: '',
+        demo: 'https://www.google.com/',
         image: ayla,
         role: 'MY ROLE', /*Why out of order?*/
     }
