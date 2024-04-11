@@ -65,6 +65,7 @@ function ProjectCard({ project }) {
           </div>
           <div><span className="text-gray-400">{`};`}</span></div>
 
+          <div></div>
           <div className="flex items-center justify-between w-full">
             <Link
               href={project.demo}
