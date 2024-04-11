@@ -13,8 +13,8 @@ export const educations = [
   },
   {
     id: 3,
-    title: "------- Certificate",
-    duration: "--------",
+    title: "--------------------",
+    duration: "--------------------",
     institution: "--------------------",
   }
 ]
