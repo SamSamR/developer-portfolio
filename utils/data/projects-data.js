@@ -44,8 +44,6 @@ export const projectsData = [
         image: ayla,
         role: 'MY ROLE', /*Why out of order?*/
     },
-
-    //Add more here?
     {
         id: 5,
         name: 'Project Title 5',
