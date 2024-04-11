@@ -100,20 +100,20 @@ function HeroSection() {
           <div className="overflow-hidden border-t-[2px] border-indigo-900 px-4 lg:px-8 py-4 lg:py-8">
             <code className="font-mono text-xs md:text-sm lg:text-base">
               <div className="blink">
-                <span className="mr-2 text-pink-500">public class</span>
+                <span className="mr-2 text-pink-500">class</span>
                 <span className="text-white">Coder</span>
                 <span className="text-pink-500">()</span>
                 <span className="text-gray-400">{'{'}</span>
               </div>
               <div>
-              <span className="ml-4 lg:ml-8 mr-2 text-pink-500">public string</span>
+              <span className="ml-4 lg:ml-8 mr-2 text-pink-500">string</span>
                 <span className="mr-2 text-white">Name =</span>
                 <span className="text-gray-400">{`"`}</span>
                 <span className="text-amber-300">Sam Rodden</span>
                 <span className="text-gray-400">{`";`}</span>
               </div>
               <div className="ml-4 lg:ml-8 mr-2">
-                <span className="mr-2 text-pink-500">public string[]</span>
+                <span className="mr-2 text-pink-500">string[]</span>
                 <span className=" text-white">mySkills = </span>
                 <span className="text-gray-400">{`{"`}</span>
                 <span className="text-amber-300">Unity</span>
@@ -136,19 +136,19 @@ function HeroSection() {
                 <span className="text-gray-400">{'"};'}</span>
               </div>
               <div>
-                <span className="ml-4 lg:ml-8 mr-2 text-pink-500">public bool</span>
+                <span className="ml-4 lg:ml-8 mr-2 text-pink-500">bool</span>
                 <span className="text-white">hardWorker = </span>
                 <span className="text-orange-400">true</span>
                 <span className="text-gray-400">;</span>
               </div>
               <div>
-              <span className="ml-4 lg:ml-8 mr-2 text-pink-500">public bool</span>
+              <span className="ml-4 lg:ml-8 mr-2 text-pink-500">bool</span>
                 <span className="text-white">quickLearner = </span>
                 <span className="text-orange-400">true</span>
                 <span className="text-gray-400">;</span>
               </div>
               <div>
-                <span className="ml-4 lg:ml-8 mr-2 text-pink-500">public bool</span>
+                <span className="ml-4 lg:ml-8 mr-2 text-pink-500">bool</span>
                 <span className="text-white">problemSolver = </span>
                 <span className="text-orange-400">true</span>
                 <span className="text-gray-400">;</span>
@@ -159,7 +159,7 @@ function HeroSection() {
                 <span className="text-gray-400">{'() {'}</span>
               </div>
               <div>
-                <span className="ml-8 lg:ml-16 mr-2 text-orange-400">return </span>
+                <span className="ml-8 lg:ml-16 mr-2 text-orange-400">return</span>
                 <span className="text-gray-400">{`(`}</span>
               </div>
               <div>
