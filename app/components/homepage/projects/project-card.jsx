@@ -65,9 +65,7 @@ function ProjectCard({ project }) {
           </div>
           <div><span className="text-gray-400">{`};`}</span></div>
 
-          <div className="ml-4 lg:ml-8 mr-2">
-            <span className="text-white">Demo:</span>
-          {/*<div className="flex items-center justify-between w-full">*/}
+          <div className="flex items-center justify-between w-full">
             <Link
               href={project.demo}
               target='_blank'
