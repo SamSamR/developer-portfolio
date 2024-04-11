@@ -7,14 +7,14 @@ export const experiences = [
   },
   {
     id: 2,
-    title: "-----------",
-    company: "-------------",
-    duration: "(-----------)"
+    title: "Statistics Tutor",
+    company: "Self Employed",
+    duration: "(April 2024 - Present)"
   },
   {
     id: 3,
-    title: "Self Employed",
-    company: "Add a catchy blurb."/*Code  build something in everyday.*/,
-    duration: "(Sep 2023 - Present)"
+    title: "----------",
+    company: "----------",
+    duration: "(----------)"
   }
 ]
