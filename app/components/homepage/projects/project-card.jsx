@@ -63,7 +63,7 @@ function ProjectCard({ project }) {
             <span className="text-cyan-400">{' ' + project.description}</span>
             <span className="text-gray-400">,</span>
           </div>
-          <div><span className="text-gray-400">{`};`}</span></div>
+          <div><span className="text-gray-400">{`};\n`}</span></div>
 
 
           <div className="flex items-center justify-between w-full">
