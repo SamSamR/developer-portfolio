@@ -10,11 +10,11 @@ export const experiences = [
     title: "Statistics Tutor",
     company: "Self Employed",
     duration: "(Feb 2024 - Present)"
-  },
+  }/*,
   {
     id: 3,
     title: "----------",
     company: "----------",
     duration: "(----------)"
-  }
+  }*/
 ]

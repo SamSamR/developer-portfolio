@@ -10,11 +10,11 @@ export const educations = [
     title: "AA Degree",
     duration: "Aug 2015 - May 2017",
     institution: "College Academy at Broward College North",
-  },
+  }/*,
   {
     id: 3,
     title: "--------------------",
     duration: "--------------------",
     institution: "--------------------",
-  }
+  }*/
 ]
