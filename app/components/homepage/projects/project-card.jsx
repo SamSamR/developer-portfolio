@@ -39,7 +39,7 @@ function ProjectCard({ project }) {
           </div>
 
           <div className="ml-4 lg:ml-8 mr-2">
-          <span className="text-pink-500">string</span>
+          <span className="mr-2 text-pink-500">string</span>
             <span className="mr-2 text-white">Tools[] =</span>
             <span className="text-gray-400">{` {"`}</span>
             {
