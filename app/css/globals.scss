@@ -53,6 +53,18 @@ body {
   --index: 9;
 }
 
+#sticky-card-10 {
+  --index: 10;
+}
+
+#sticky-card-11 {
+  --index: 11;
+}
+
+#sticky-card-12 {
+  --index: 12;
+}
+
 .sticky-card {
   // padding-top: calc(var(--index) * 2.5rem);
   top: calc(var(--index) * 4rem);
