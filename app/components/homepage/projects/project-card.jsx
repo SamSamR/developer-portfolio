@@ -26,13 +26,13 @@ function ProjectCard({ project }) {
         <code className="font-mono text-xs md:text-sm lg:text-base">
           <div className="blink">
             <span className="mr-2 text-pink-500">class</span>
-            <span className="mr-2 text-white">Project</span>
+            <span className="text-white">Project</span>
             <span className="text-pink-500">{'()'}</span>
             <span className="text-gray-400">{'{'}</span>
           </div>
           <div>
             <span className="ml-4 lg:ml-8 mr-2 text-pink-500">string</span>
-            <span className="mr-2 text-white">Name = </span>
+            <span className="mr-2 text-white">Name =</span>
             <span className="text-gray-400">{`"`}</span>
             <span className="text-amber-300">{project.name}</span>
             <span className="text-gray-400">{`";`}</span>
@@ -40,7 +40,7 @@ function ProjectCard({ project }) {
 
           <div className="ml-4 lg:ml-8 mr-2">
           <span className="text-pink-500">string</span>
-            <span className=" text-white">Tools[] =:</span>
+            <span className="mr-2 text-white">Tools[] =</span>
             <span className="text-gray-400">{` {"`}</span>
             {
               project.tools.map((tag, i) => (
@@ -53,16 +53,16 @@ function ProjectCard({ project }) {
                 </React.Fragment>
               ))
             }
-            <span className="text-gray-400">{"},"}</span>
+            <span className="text-gray-400">{"};"}</span>
           </div>
           <div>
-            <span className="ml-4 lg:ml-8 mr-2text-pink-500">string</span>
-            <span className=" text-white">myRole =</span>
+            <span className="ml-4 lg:ml-8 mr-2 text-pink-500">string</span>
+            <span className="mr-2 text-white">myRole =</span>
             <span className="text-orange-400">{project.role}</span>
             <span className="text-gray-400">;</span>
           </div>
           <div className="ml-4 lg:ml-8 mr-2">
-            <span className="text-white"> {'/* Description ='}</span>
+            <span className="text-white"> {'/* Description: '}</span>
             <span className="text-cyan-400">{' ' + project.description}</span>
             <span className="text-white">{'*/'}</span>
           </div>
