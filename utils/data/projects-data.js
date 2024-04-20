@@ -7,7 +7,7 @@ export const projectsData = [
     {
         id: 1,
         name: 'VR Paper Airplanes',
-        description: 'Collaborated with a team to design & program a VR game in Unity, where players pick up & throws paper airplane into trash bins to score points. I created the level design, programmed the Game Manager & the airplane physics, point system, & UI. The game currently supports the Oculus headset.',
+        description: 'Collaborated with a team to design & program a VR game in Unity, where players pick up & throw paper airplanes into trash bins to score points. I created the level design, programmed the Game Manager & the airplane physics, point system, & UI. The game currently supports the Oculus headset.',
         tools: ['Unity', 'Oculus Quest', "OpenXR", "C#"],
         role: 'Developer',
         code: '',
@@ -17,7 +17,7 @@ export const projectsData = [
     {
         id: 2,
         name: 'VR OSHA Violation Sim.',
-        description: 'A college project where I refactored & revitalized a legacy Unity VR application that could be used to train construction workers on various OSHA violations on sites. I updated & tested the level design to enhance efficiency, user experience, updated original scripts to be more efficient & scalable in the future & created new UI elements. This application currently supports the Oculus headset.',
+        description: 'A college project where I refactored & revitalized a legacy Unity VR application that could be used to train construction workers about various OSHA violations on sites. I updated & tested the level design to enhance efficiency, user experience, updated original scripts to be more scalable in the future & created new UI elements. This application currently supports the Oculus headset.',
         tools: ['Unity', 'Oculus Quest', 'OpenXR', 'C#'],
         role: 'Developer',
         code: '',
@@ -27,7 +27,7 @@ export const projectsData = [
     {
         id: 3,
         name: 'Castle Defender Prototype',
-        description: "A college project where we used custome netcode to create a multiplayer castle defender in Unity in 4 months. The goal of the game was for each player to build their castle, places down units, & defends their castle from other players. I was the system designer, artist, & programmer of this game. I programmed the game mechanics, game economy, unit’s pathfinding AI, & the server network for client/server communications. I also created the UI elements, 2D assets, & animations.",
+        description: "A college project where I used custome netcode to create a multiplayer castle defender for Unity in 4 months. The goal of the game was for each player to build their castle, places down units, & defends their castle from other players. I was the system designer, artist, & programmer. I programmed the game mechanics, game economy, unit’s pathfinding AI, & the server network for client/server communications. I also created the UI elements, 2D assets, & animations.",
         tools: ['Unity', 'C#', 'Aesprite', "Custom Netcode"],
         role: 'Developer, Pixel Artist, Animator',
         code: '',
@@ -37,7 +37,7 @@ export const projectsData = [
     {
         id: 4,
         name: 'Space Game Prototype',
-        description: "A college project where I designed & prototyped a single-player 3D space game in Unity. Developed puzzle mechanics where the player must use their velocity to defeat giant enemies. Created the UI elements, sounds, & 3D models in Maya.",
+        description: "A college project where I designed & prototyped a single-player 3D space game in Unity. Developed puzzle mechanics where the player must use their velocity to defeat giant enemies. Created 3D models in Maya, UI elements in Photoshop & sounds in ######.",
         tools: ['Unity', 'Shader Graphs', 'Blender', '####Music/sound Program###'],
         role: 'Developer, Artist, Sound/Music Designer',
         code: '',
