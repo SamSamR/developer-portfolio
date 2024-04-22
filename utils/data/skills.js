@@ -1,8 +1,8 @@
 export const skillsData = [
   'Unity',
-  // need to add 'Unity ARKit',
+  // might add 'Unity ARKit',
   // might add 'Unity ARCore',
-  // need to add 'Unity XR Interaction Toolkit',
+  // might add 'Unity XR Interaction Toolkit',
   
   'C#',
   'C++',
@@ -11,25 +11,22 @@ export const skillsData = [
   
   'HTML',
   'CSS',
-  'Javascript',
   'Java',
+  'Javascript',
   
   'Python',
-  'MySQL',
+  //'MySQL',
   
   'Microsoft Office',
   'Blender',
-  // need to add 'Maya',
+  // might add 'Maya',
   
   'Photoshop',
   'Premiere Pro',
   'Adobe Audition',
-  'After Effects',
+  //'After Effects',
   // might add 'Adobe XD',
-  
-  // need to add 'Visual Studios',
-  // need to add 'Android Studio',
-  
+    
   'Git'
   
   //might want to add
@@ -41,8 +38,8 @@ export const skillsData = [
   
   /* Unsure to add the following
   'Numpy',
+  'Matlab',
   'Ubuntu',
-  'Matlab'
   */
   
 ]

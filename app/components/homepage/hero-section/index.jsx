@@ -120,18 +120,20 @@ function HeroSection() {
                 <span className="text-gray-400">{'", "'}</span>
                 <span className="text-amber-300">C#</span>
                 <span className="text-gray-400">{'", "'}</span>
+                <span className="text-amber-300">OOP</span>
+                <span className="text-gray-400">{'", "'}</span>
                 <span className="text-amber-300">VR/AR</span>
                 <span className="text-gray-400">{'", "'}</span>
-                <span className="text-amber-300">Visual Studios</span>
+                <span className="text-amber-300">Game Development</span>
                 <span className="text-gray-400">{'", "'}</span>
                 <span className="text-amber-300">Quality Assurance</span>
                 <span className="text-gray-400">{'", "'}</span>
                 <span className="text-amber-300">Debugging</span>
                 <span className="text-gray-400">{'", "'}</span>
-                {/*<span className="text-amber-300">MongoDB</span>
+                <span className="text-amber-300">Documentation</span>
                 <span className="text-gray-400">{'", "'}</span>
-                <span className="text-amber-300">Docker</span>
-                <span className="text-gray-400">{'", "'}</span>*/}
+                <span className="text-amber-300">SDLC</span>
+                <span className="text-gray-400">{'", "'}</span>
                 <span className="text-amber-300">Microsoft Office</span>
                 <span className="text-gray-400">{'"};'}</span>
               </div>

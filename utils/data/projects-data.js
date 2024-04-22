@@ -7,8 +7,8 @@ export const projectsData = [
     {
         id: 1,
         name: 'VR Paper Airplanes',
-        description: 'Collaborated with a team to design & program a VR game in Unity, where players pick up & throw paper airplanes into trash bins to score points. I created the level design, programmed the Game Manager & the airplane physics, point system, & UI. The game currently supports the Oculus headset.',
-        tools: ['Unity', 'Oculus Quest', "OpenXR", "C#"],
+        description: 'A college project where I collaborated with a team to design & program a physics based VR game in Unity, where players pick up & throw paper airplanes into trash bins to score points. I created the level design, programmed the Game Manager & the airplane physics, point system, & UI. The game currently supports the Oculus headset.',
+        tools: ['Unity', 'C#', 'Oculus', 'OpenXR', 'XR Interaction Toolkit'],
         role: 'Developer',
         code: '',
         demo: '',
@@ -17,8 +17,8 @@ export const projectsData = [
     {
         id: 2,
         name: 'VR OSHA Violation Sim.',
-        description: 'A college project where I refactored & revitalized a legacy Unity VR application that could be used to train construction workers about various OSHA violations on sites. I updated & tested the level design to enhance efficiency, user experience, updated original scripts to be more scalable in the future & created new UI elements. This application currently supports the Oculus headset.',
-        tools: ['Unity', 'Oculus Quest', 'OpenXR', 'C#'],
+        description: 'A college project where I refactored & revitalized a legacy Unity VR application that could be used to train construction workers about various OSHA violations on sites. I updated & tested the level design to enhance efficiency, user experience, updated original scripts to be more scalable in the future, & created new UI elements. This application currently supports the Oculus headset.',
+        tools: ['Unity', 'C#', 'Oculus', 'OpenXR', 'XR Interaction Toolkit'],
         role: 'Developer',
         code: '',
         demo: '',
@@ -28,7 +28,7 @@ export const projectsData = [
         id: 3,
         name: 'Castle Defender Prototype',
         description: "A college project where I used custome netcode to create a multiplayer castle defender for Unity in 4 months. The goal of the game was for each player to build their castle, places down units, & defends their castle from other players. I was the system designer, artist, & programmer. I programmed the game mechanics, game economy, unit’s pathfinding AI, & the server network for client/server communications. I also created the UI elements, 2D assets, & animations.",
-        tools: ['Unity', 'C#', 'Aesprite', "Custom Netcode"],
+        tools: ['Unity', 'C#', 'Aesprite', 'Custom Netcode'],
         role: 'Developer, Pixel Artist, Animator',
         code: '',
         demo: '',
@@ -37,18 +37,18 @@ export const projectsData = [
     {
         id: 4,
         name: 'Space Game Prototype',
-        description: "A college project where I designed & prototyped a single-player 3D space game in Unity. Developed puzzle mechanics where the player must use their velocity to defeat giant enemies. Created 3D models in Maya, UI elements in Photoshop & sounds in ######.",
-        tools: ['Unity', 'Shader Graphs', 'Blender', '####Music/sound Program###'],
+        description: "A college project where I designed & prototyped a single-player 3D space game in Unity. Developed puzzle mechanics where the player must use their velocity to defeat giant enemies. Created 3D models in Blender, UI elements in Photoshop & sounds in ######.",
+        tools: ['Unity', 'C#', 'Shader Graphs', 'Blender', 'Cubase', 'Adobe Audition'],
         role: 'Developer, Artist, Sound/Music Designer',
         code: '',
         demo: '',
         image: crefin,
-    }/*,
+    },/*
     {
         id: 5,
         name: 'HTML Maze Game',
         description: "Project Description.",
-        tools: ['###Visual Studios###', 'HTML', 'JavaScript', 'MSPaint', '####thing to put pics in####'],
+        tools: ['Visual Studios', 'HTML', 'JavaScript', 'Aesprite'],
         role: 'MY ROLE',
         code: '',
         demo: '',
@@ -58,7 +58,7 @@ export const projectsData = [
         id: 6,
         name: 'HTML Paint Program',
         description: "Project Description.",
-        tools: ['###Visual Studios###', 'HTML', 'JavaScript'],
+        tools: ['Visual Studios', 'HTML', 'JavaScript'],
         role: 'MY ROLE',
         code: '',
         demo: '',
@@ -103,17 +103,17 @@ export const projectsData = [
         code: '',
         demo: '',
         image: crefin,
-    },
+    },*/
     {
-        id: 11,
+        id: 5,
         name: 'VictoryXR',
-        description: "Here are links to the programs I worked on while working at VictoryXR. I handled the porting & refactoring of ~40 VR applications & I handled the revitalization & testing of 2 mobile AR applications. For all projects I was incharge of QA testing & debugging, revising & updating project summaries, status reports, & step-by-step guides to key tasks.",
-        tools: ['Unity', 'Unity Android', 'VR Headset (DPVR)', 'Azure', 'ARCore', 'ARFoundation', 'Custome VR Packages', 'Custome AR Packages', '????SDK PROGRAM???', '####', 'C#'],
+        description: "Here are links to the applications I worked on while employed at VictoryXR. I handled the porting & refactoring of ~40 VR applications & the revitalization & testing of 2 mobile AR applications. For all projects I was incharge of QA testing, debugging, & updating comprehensive documentation such as: code documentaion, project summaries, status reports, & step-by-step guides to key tasks.",
+        tools: ['Unity', 'C#', 'Unity Android', 'VR Headset (DPVR)', 'Azure', 'ARKit/ARCore', 'ARFoundation', 'Custome VR & AR Packages', 'Android APKs', 'SDKs', 'APIs', 'Slack', 'Microsoft Excel', 'Microsoft Word', 'Git'],
         role: 'Unity Developer, Intern',
         code: 'https://play.google.com/store/apps/dev?id=7568583625005785208&hl=en_US&gl=US',
         demo: 'https://www.victoryxr.com/',
         image: crefin,
-    }*/
+    }
 ];
 
 
