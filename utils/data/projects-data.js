@@ -53,7 +53,7 @@ export const projectsData = [
         code: '',
         demo: '',
         image: crefin,
-    }/*,
+    },/*,
     {
         id: 6,
         name: 'HTML Maze Game',
