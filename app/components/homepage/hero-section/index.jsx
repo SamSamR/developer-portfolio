@@ -122,9 +122,11 @@ function HeroSection() {
                 <span className="text-gray-400">{'", "'}</span>
                 <span className="text-amber-300">OOP</span>
                 <span className="text-gray-400">{'", "'}</span>
+                <span className="text-amber-300">Game Development</span>
+                <span className="text-gray-400">{'", "'}</span>
                 <span className="text-amber-300">VR/AR</span>
                 <span className="text-gray-400">{'", "'}</span>
-                <span className="text-amber-300">Game Development</span>
+                <span className="text-amber-300">Code Refactoring</span>
                 <span className="text-gray-400">{'", "'}</span>
                 <span className="text-amber-300">Quality Assurance</span>
                 <span className="text-gray-400">{'", "'}</span>
