@@ -61,7 +61,7 @@ function ContactForm() {
       </p>
       <div className="max-w-3xl text-white rounded-lg border border-[#464c6a] p-3 lg:p-5">
         <p className="text-sm text-[#d3d8e8]">
-          {"If you have any questions or concerns, please don't hesitate to contact me. I am open to any job opportunities that align with my skills and experience."}
+          {"If you have any questions or concerns, please don't hesitate to contact me. I am open to any job opportunities that align with my skills and experience. If the below form is not working please send any messages to the email on the right."}
         </p>
         <div className="mt-6 flex flex-col gap-4">
           <div className="flex flex-col gap-2">
