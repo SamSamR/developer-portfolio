@@ -3,9 +3,9 @@ export const contactsData = {
     phone: '---------',
     address: 'United States, Florida',
     github: 'https://github.com/SamSamR',
-    facebook: '----------',
+    facebook: '',
     linkedIn: 'https://www.linkedin.com/in/sam-rodden-091b471b9',
-    twitter: '-----------',
+    twitter: '',
     stackOverflow: '----------',
-    devUsername: "--------"
+    devUsername: ""
 }

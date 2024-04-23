@@ -1,8 +1,5 @@
 export const skillsData = [
   'Unity',
-  // might add 'Unity ARKit',
-  // might add 'Unity ARCore',
-  // might add 'Unity XR Interaction Toolkit',
   
   'C#',
   'C++',
@@ -19,29 +16,13 @@ export const skillsData = [
   
   'Microsoft Office',
   'Blender',
-  // might add 'Maya',
   
   'Photoshop',
   'Premiere Pro',
   'Adobe Audition',
   //'After Effects',
-  // might add 'Adobe XD',
     
-  'Git'
-  
-  //might want to add
-  //'Oculus',
-  //'Android',
-  //'PC'
-  
-  
-  
-  /* Unsure to add the following
-  'Numpy',
-  'Matlab',
-  'Ubuntu',
-  */
-  
+  'Git'  
 ]
 
 // Add skills to skill-image.js 
