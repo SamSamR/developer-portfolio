@@ -13,5 +13,5 @@ export const personalData = {
   stackOverflow: '----------',
   leetcode: "----------",
   devUsername: "----------",
-  resume: "CHANGE TO GOOGLE DRIVE LINK OF RESUME"
+  resume: "https://drive.google.com/drive/folders/1zgQfBlzy7cJreVJpqihLmdVqmPHWCsW0?usp=sharing"
 }
