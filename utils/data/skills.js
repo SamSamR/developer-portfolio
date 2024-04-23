@@ -21,7 +21,7 @@ export const skillsData = [
   'Premiere Pro',
   'Adobe Audition',
   //'After Effects',
-    
+  
   'Git'  
 ]
 

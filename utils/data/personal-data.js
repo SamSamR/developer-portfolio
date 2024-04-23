@@ -7,11 +7,11 @@ export const personalData = {
   phone: '----------',
   address: 'United States, Florida',
   github: 'https://github.com/SamSamR',
-  facebook: '----------',
+  facebook: '',
   linkedIn: 'https://www.linkedin.com/in/sam-rodden-091b471b9/',
-  twitter: '----------',
+  twitter: '',
   stackOverflow: '----------',
   leetcode: "----------",
-  devUsername: "----------",
+  devUsername: "",
   resume: "https://drive.google.com/drive/folders/1zgQfBlzy7cJreVJpqihLmdVqmPHWCsW0?usp=sharing"
 }
