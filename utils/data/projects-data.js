@@ -7,8 +7,8 @@ export const projectsData = [
     {
         id: 1,
         name: 'VictoryXR',
-        description: "While employed at VictoryXR, I handled the porting & refactoring of ~40 VR applications & the revitalization & testing of 2 mobile AR applications. For all projects I was incharge of QA testing, debugging, & updating comprehensive documentation such as: code documentaion, project summaries, status reports, & step-by-step guides to key tasks. Bellow are links to the applications I worked on while at VictoryXR.",
-        tools: ['Unity', 'Unity Android', 'C#', 'DPVR', 'Azure', 'ARKit/ARCore', 'ARFoundation', 'Custome VR & AR Packages', 'APKs', 'SideQuest', 'SDKs', 'APIs', 'Slack', 'Microsoft Excel', 'Microsoft Word', 'Git'],
+        description: "While employed at VictoryXR, I handled the porting & refactoring of 40+ VR applications & the revitalization & testing of 2 mobile AR applications. For all projects I was incharge of QA testing, debugging, & updating comprehensive documentation such as: code documentaion, project summaries, status reports, & step-by-step guides to key tasks. For more details on what I accomplished take a look at my resume, which can be found above. Bellow are links to the applications I worked on while at VictoryXR.",
+        tools: ['Unity', 'Unity Android', 'C#', 'DPVR', 'PICO', 'Azure', 'ARKit/ARCore', 'ARFoundation', 'Custome VR & AR Packages', 'APKs', 'SideQuest', 'SDKs', 'APIs', 'Slack', 'Microsoft Excel', 'Microsoft Word', 'Git'],
         role: 'Unity Developer, Intern',
         code: 'https://play.google.com/store/apps/dev?id=7568583625005785208&hl=en_US&gl=US',
         demo: 'https://www.victoryxr.com/',
